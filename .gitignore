@@ -1,0 +1,21 @@
+# "temporary" build files
+target/
+out/
+build/
+
+## .gitignore for linux
+.*
+!.gitignore
+!.gitattributes
+!.editorconfig
+!.eslintrc
+!.travis.yml
+*~
+
+# logs
+/stacktrace.log
+/test/reports
+/logs
+*.log
+*.log.*
+
