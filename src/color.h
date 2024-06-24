@@ -8,7 +8,6 @@
 
 #include "vec3.h"
 
-#include <iostream>
 
 // type alias
 using color = vec3;
